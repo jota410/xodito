@@ -1,0 +1,62 @@
+body
+{
+background-color:cornflowerblue
+}
+
+.gruillacontenedora1parte
+{
+   display: grid;
+   text-align: center;
+}
+h1
+{
+    color: antiquewhite ;
+    font-size: 250%;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+header
+{
+    background-color: rgb(10, 21, 83);
+}
+footer
+{
+    background-color: rgb(32, 63, 83);
+    text-align: center;
+}
+p.pie 
+{
+    color: beige;
+    font-size: 150%;
+}
+div.oscuro
+{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    border: 7px solid rgb(0, 0, 0);
+    border-radius: 15px;
+}
+h2:hover
+{
+    font-family:Arial, Helvetica, sans-serif;
+    color: rgb(247, 248, 248);
+}
+div.oscuro:hover
+{
+    background-color: rgb(134, 211, 221);
+    text-align: center;
+    border: 7px solid rgb(247, 255, 175);
+    border-radius: 15px;
+}
+h3
+{
+background-color: rgb(117, 200, 228);
+    text-align: center;
+    border: 7px solid rgb(23, 57, 107);
+    border-radius: 15px;
+}
+video
+{
+    border: 7px solid rgb(2, 22, 66);
+    border-radius: 15px;
+}
